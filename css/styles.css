@@ -337,6 +337,20 @@ background: #2F303A;
 padding-top: 60px;
 padding-bottom: 50px;
 }
+
+.main-address:focus,
+.main-address:hover {
+  color: #2196F3;
+}
+
+.mail-address:focus,
+.mail-address:hover {
+  color: #2196F3;
+}
+.tel-address:focus,
+.tel-address:hover {
+  color: #2196F3;
+}
 /*end footer*/
 
 /*========= end title Web Studio =========*/
